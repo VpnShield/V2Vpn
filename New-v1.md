@@ -19,5 +19,5 @@
 "Button": "عضویت در کانال VIP ",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
