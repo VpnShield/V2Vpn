@@ -20,5 +20,5 @@
 "Button": " عضویت ",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
