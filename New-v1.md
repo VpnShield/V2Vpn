@@ -20,5 +20,5 @@
 "Button": "  عضویت و بازدید   ",
 "ButtonCancell": "  ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
