@@ -1,10 +1,10 @@
 {
-"Title": "‼️طوری زندگیتو ورق بزن ک همه تو کف بمونن‼️",
-"Description": "اگه میخای زندگیا ورق بخوره زندگیت عوض بشه دیگه دقدقه بی‌پولی نداشته باشی و یه زندگی ایده رویایی داشته باشی من بهت پیشنهاد میکنم کانال دکتر طلوعی و ببینی،البته اگه نیاز نداری بدون عضو شدن برگرد 😂💸👇🐺",
-"Link": "tg://join?invite=IFIWf68l5iE2Y2Zk",
-"ColorWave": "#00E5FF",
-"Color": "#00E5FF",
-"ColorWaveTwo": "#00B8D4",
+"Title": "درآمد ماهانت چقدره؟🫣زیر پنج میلیون؟! 🫡",
+"Description": "اگر زیر پنج میلیون درامدته باید بگم لازمه توی کانالی ک میگم عضو بشی ک با درامدت ی ماهت اندازه ده ماههههههههه بیوفتی جلو😀 البته اگه از بابات پول میگیری درآمد دلاری بدردت نمیخوره و بدون عضو شدن برگرد 😂",
+"Link": "tg://join?invite=wHXkZodNLfdhMWQ0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -17,8 +17,10 @@
 "Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  عضویت و بازدید   ",
+"Button": "  عضویت و کسب درآمد  ",
 "ButtonCancell": "  ",
 "Closure": "true",
-"Show": "off"
+"Show": "on"
 }
+
+‌
