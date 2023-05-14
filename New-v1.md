@@ -1,1 +1,24 @@
-
+{
+"Title": "بسه دیگه تا کی؟ 😫",
+"Description": "😒 مطمعنم توام کلافه ای از حرفای بقیه که چرا کار نمیکنی؟ درامدت چقدره؟ کجا کار میکنی؟\nهوففففففففففف🙇‍♀\n\n- بنظرم یه لحظه این کانال و نگاه کن ، چون هم درامدت دلاری و سرو سامون پیدا میکنی هم .... (البته اگه وضعت خوبه بدون عضو شدن به برنامه برگرد)",
+"Link": "tg://join?invite=XgU-SOALvdFhOThk",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  عضویت   ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
