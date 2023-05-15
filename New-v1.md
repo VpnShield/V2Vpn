@@ -14,7 +14,7 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
 "Button": "  عضویت فوری  ",
