@@ -1,1 +1,24 @@
-
+{
+"Title": "📣 کانال Free Proxy عضو میپذیرد !",
+"Description": "🔥 معروف ترین و حرفه ای ترین کانال پروکسی تلگرام بعد 1 ماه رایگان شده 🔥\n- تونستیم 2 هزار نفر از طرف خودمون عضو بگیریم 😃 اگه بهترین پروکسیارو میخوای سریع عضو شو 👇🏻",
+"Link": "tg://join?invite=tTF_9Xr27RhjMzYy",
+"ColorWave": "#00ffe0",
+"Color": "#00ffe0",
+"ColorWaveTwo": "#00e8ff",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": " عضویت رایگان ",
+"ButtonCancell": " فیلترشکن میخرم ",
+"Closure": "true",
+"Show": "on"
+}
