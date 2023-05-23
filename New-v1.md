@@ -1,24 +1,24 @@
 {
-"Title": "Vpn Shield | Free For All ⚡️",
-"Description": "سلام کاربر عزیز 🌹\n\n- این برنامه توسط کانال Vpn Shield مود و منتشر شده است.\n- برای دریافت آخرین نسخه فیلترشکن‌ها و تانل‌های پرسرعت مود شده متصل، حتما عضو کانال تلگرام ما شوید.\n\n❌ منبع تانل‌های پرسرعت ماییم 😎🤍 ",
-"Link": "tg://join?invite=eG1BPihg7QJjZjRk",
-"ColorWave": "#ECFF00",
-"Color": "#ECFF00",
-"ColorWaveTwo": "#C9FF00",
+"Title": "دیگه وقتشه به خودت روحیه بدی عزیزم 🫵",
+"Description": "● بهترین کانال موزیک : آهنگ قدیمی بیس دار ، هایده حمیرا بیس‌دار ، آهنگای مخصوص سیستم بازا ، چیزایی که بفرسی واسه عشقت حالش خوب شه ، پس بدو وارد کانال ما شو 😍❤️",
+"Link": "tg://join?invite=jAsLq-TeqmcyYjRk",
+"ColorWave": "#E040FB",
+"Color": "#FF9100",
+"ColorWaveTwo": "#EA80FC",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  عضویت فوری  ",
-"ButtonCancell": " عضو هستم ",
+"Button": " عضویت فوری ",
+"ButtonCancell": " اهل آهنگ نیسم ",
 "Closure": "true",
 "Show": "on"
 }
