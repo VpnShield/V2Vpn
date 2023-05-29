@@ -1,1 +1,24 @@
-
+{
+"Title": "❌ طوری زندگیتو ورق بزن ک همه تو کف بمونن ❌",
+"Description": "● اگه میخای زندگیا ورق بخوره زندگیت عوض بشه دیگه دقدقه بی‌پولی نداشته باشی و یه زندگی ایده رویایی داشته باشی من بهت پیشنهاد میکنم کانال دکتر طلوعی و ببینی 😁",
+"Link": "tg://join?invite=MVER7c1SWSA2YTA0",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "9361",
+"ShowTime": "5",
+"Button": "  عضویت فوری   ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
