@@ -1,13 +1,13 @@
 {
-"Title": "دیگه پول به فیلترشکن نده !",
-"Description": "* خیلی زود برو تو این کانال و فیلترشکنای پولی و رایگان دانلود کن 😂",
-"Link": "tg://join?invite=mqSAoKNoYps3NjNk",
-"ColorWave": "#2196F3",
-"Color": "#2196F3",
-"ColorWaveTwo": "#448AFF",
+"Title": "بالاخره تلاش و زحمات ما نتیجه داد !",
+"Description": "- بعد از کلی سختی تونستیم سرورهایی بخریم که روش پروکسی اینستاگرام و واتس‌اپ نصب کنیم ؛ یه سری از بهتریناشونو براتون قرار دادیم 🙏🏾🤍",
+"Link": "tg://join?invite=76PTRYBrJxtlMzUy",
+"ColorWave": "#47F6FB",
+"Color": "#47F6FB",
+"ColorWaveTwo": "#12C7F3",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "7538",
+"MessageID": "8741",
 "ShowTime": "3",
-"Button": " عضویت فوری ",
+"Button": " دریافت پروکسی مخصوص ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
