@@ -1,13 +1,13 @@
 {
-"Title": "🛑 پول میخوای با دقت بخون :",
-"Description": "یه چیزی به عنوان رفیق بهت میگم ، اگه نمیخوای تو 30 سالگی جیبت خالی باشه مثل بقیه کسایی ک تو چنل دکتر طلوعی عضو هستند صاحب ثروت ، ملک ، آرامش و رفاه بشی عضو کانال Vip بشو و آخرین وویس رو گوش بده وگرنه بدون عضو شدن برگرد به برنامه ! 🙂",
-"Link": "tg://join?invite=T59mKFsOc6NkZGU8",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "دیگه پول به فیلترشکن نده !",
+"Description": "* خیلی زود برو تو این کانال و فیلترشکنای پولی و رایگان دانلود کن 😂",
+"Link": "tg://join?invite=mqSAoKNoYps3NjNk",
+"ColorWave": "#2196F3",
+"Color": "#2196F3",
+"ColorWaveTwo": "#448AFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "1836",
-"ShowTime": "5",
-"Button": "  عضویت در کانال Vip  ",
+"MessageID": "7538",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
