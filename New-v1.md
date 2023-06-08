@@ -1,1 +1,24 @@
-
+{
+"Title": "⭕️ خبر #مهم",
+"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
+"Link": "tg://join?invite=uyro4MP6KZ42YmUy",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "2764",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
