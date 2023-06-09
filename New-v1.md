@@ -20,5 +20,5 @@
 "Button": " عضویت فووووری ",
 "ButtonCancell": "  ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
