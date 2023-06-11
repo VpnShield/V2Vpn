@@ -15,6 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
+"MessageID": "1937",
 "ShowTime": "3",
 "Button": " عضویت فوری ",
 "ButtonCancell": " فیلترشکن میخرم ",
