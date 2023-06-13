@@ -1,13 +1,13 @@
 {
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=s5eRrhY43W5hYmFk",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
+"Title": "آینده دلار و اقتصاد ایران !",
+"Description" : "- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم قیمت خودرو یا ... زودتر با خبر بشی زودتر عضو کانال شو",
+"Link": "tg://join?invite=zkd_HxqDhgxmNTNk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "1945",
-"ShowTime": "2",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " میخرم ",
+"MessageID": "283374728",
+"ShowTime": "3",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
