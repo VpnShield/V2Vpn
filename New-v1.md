@@ -1,10 +1,10 @@
 {
-"Title": "⭕️ تصویب مجلس برای قطعی اینترنت !",
-"Description": "- از امشب اختلال شدید داریم ، اگه میخوای تلگرام و اینستات قطع نشه سریع بیا کانال 👇🏻",
-"Link": "tg://join?invite=H0BsgF7NSH5jYzIy",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "خواهش میکنم این متن و بخون 🥲",
+"Description": "منم تا قبل یادگیری این روش کار کردن و کسب درآمد ، داشتم از بابام پول میگرفتم ، اگه میخوای راه درامدزایی یادبگیری فورا بیا تو کانال زیر منتظرتم👇🏻",
+"Link": "tg://join?invite=Xep1jCzk8bZiNTE0",
+"ColorWave": "#673AB7",
+"Color": "#FF9100",
+"ColorWaveTwo": "#7C4DFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "183749",
-"ShowTime": "2",
-"Button": " عضویت سریع ",
-"ButtonCancell": " فیلترشکن میخرم ",
+"MessageID": "3",
+"ShowTime": "846140",
+"Button": " آموزش کسب درآمد ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
