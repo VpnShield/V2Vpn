@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن قوی و پرسرعت",
-"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
-"Link": "tg://join?invite=bndeap1BXik0NzU0",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "کانال VIP رایگان شد !",
+"Description": "✌️🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP دکتر سید محمدهادی طلوعی عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
+"Link": "tg://join?invite=H4qcaHOb2c0yMTI0",
+"ColorWave": "#76FF03",
+"Color": "#76FF03",
+"ColorWaveTwo": "#64DD17",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -16,9 +16,9 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "2",
-"ShowTime": "284629",
-"Button": " دانلود فیلترشکن پرسرعت ",
-"ButtonCancell": "  ",
+"ShowTime": "392038",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
