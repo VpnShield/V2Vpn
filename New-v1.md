@@ -1,10 +1,10 @@
 {
-"Title": "آینده دلار و اقتصاد ایران !",
-"Description" : "- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم قیمت خودرو یا ... زودتر با خبر بشی زودتر عضو کانال شو",
-"Link": "tg://join?invite=nHYi2XCTHjpkMTlk",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "توروخدا سرور V2Ray نخر! 😐",
+"Description": "● کانفیگای رایگان V2Ray با سرعت 3 برابری بیشتر از کانفیگای پولی رو داخل کانال قرار دادیم ، رایگان رایگان برای همه 👇🏻",
+"Link": "tg://join?invite=L3ZE7GwV_1liZDhk",
+"ColorWave": "#00B8D4",
+"Color": "#FF9100",
+"ColorWaveTwo": "#80DEEA",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "19300013",
+"MessageID": "001357",
 "ShowTime": "3",
-"Button": "  عضویت در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"Button": " دریافت رایگان ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
