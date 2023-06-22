@@ -1,13 +1,13 @@
 {
-"Title": "⭕️ خبر #مهم",
-"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
-"Link": "tg://join?invite=uqqA4UCg4r40OTJk",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "فیلترشکن قوی و پرسرعت",
+"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Link": "tg://join?invite=cryQSRgPjGxmNjlk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "00122837",
+"MessageID": "9238501",
 "ShowTime": "3",
-"Button": " عضویت فوری ",
+"Button": " دانلود فیلترشکن پرسرعت ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
