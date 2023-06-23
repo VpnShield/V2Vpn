@@ -1,13 +1,13 @@
 {
-"Title": "کانال VIP رایگان شد !",
-"Description": "✌️🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP دکتر سید محمدهادی طلوعی عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
-"Link": "tg://join?invite=z5ZiLozINqM3MTU0",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#64DD17",
+"Title": "فیلترشکن مخصوص اینستاگرام 😁",
+"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
+"Link": "tg://join?invite=cryQSRgPjGxmNjlk",
+"ColorWave": "#A600FF",
+"Color": "#a600ff",
+"ColorWaveTwo": "#9F2BDC",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "20490018",
+"MessageID": "00236180",
 "ShowTime": "5",
-"Button": "  عضویت در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"Button": " دانلود فیلترشکن اینستا ",
+"ButtonCancell": " ممنون ",
 "Closure": "true",
 "Show": "on"
 }
