@@ -1,10 +1,10 @@
 {
-"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
-"Description": "از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه خودمون با اینجا وصلیم 👇🏻",
-"Link": "tg://join?invite=SyIZ6lTEoNVkY2Fk",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "کانال VIP رایگان شد !",
+"Description": "✌🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP دکتر سید محمدهادی طلوعی عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
+"Link": "tg://join?invite=j86V1gKtYswxMjFk",
+"ColorWave": "#76FF03",
+"Color": "#76FF03",
+"ColorWaveTwo": "#64DD17",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "293771001",
+"MessageID": "2254100",
 "ShowTime": "2",
-"Button": " دانلوود فیلترشکن بدون قطعی ",
-"ButtonCancell": "  ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
