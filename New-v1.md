@@ -1,1 +1,24 @@
-
+{
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=SyIZ6lTEoNVkY2Fk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "293771001",
+"ShowTime": "2",
+"Button": " دانلوود فیلترشکن بدون قطعی ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
