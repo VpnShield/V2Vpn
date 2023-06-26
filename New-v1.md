@@ -1,10 +1,10 @@
 {
-"Title": "عضو کانال پروکسی استارلینک بشید 🔥",
-"Description": "اینم هدیه ایلان ماسک به ایرانیا ، 3 عدد پروکسی اپراتورهای مختلف متصل به اینترنت استارلینک ، تا 2 ماه دیگه متصله 😍👇🏻",
-"Link": "tg://join?invite=JEOOn69-ybc4NWZi",
-"ColorWave": "#00E676",
-"Color": "#00E676",
-"ColorWaveTwo": "#69F0AE",
+"Title": "آینده دلار و اقتصاد ایران !",
+"Description" : "- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم قیمت خودرو یا ... زودتر با خبر بشی زودتر عضو کانال شو",
+"Link": "tg://join?invite=loW7u1VOMBsxMjNk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01201027",
+"MessageID": "25220002",
 "ShowTime": "3",
-"Button": " اتصال فوری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
