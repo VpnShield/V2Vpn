@@ -1,13 +1,13 @@
 {
-"Title": "⭕️ خبر #مهم",
-"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
-"Link": "tg://join?invite=Q9OYDlI5fxliMThk",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "کانال VIP رایگان شد !",
+"Description": "اگه تلگرام ، اینستا ، واتس‌اپت بالا نمیاد زود بیا داخل کانال VIP پروکسیای ضد فیلتر و بردار 👇🏻",
+"Link": "tg://join?invite=EBent--wzNwwODIy",
+"ColorWave": "#69F0AE",
+"Color": "#69F0AE",
+"ColorWaveTwo": "#00BFA5",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "0011010183",
+"MessageID": "279360031",
 "ShowTime": "3",
-"Button": " عضویت فوری ",
+"Button": " عضویت در کانال VIP ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
