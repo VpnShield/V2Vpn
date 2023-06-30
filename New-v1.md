@@ -1,10 +1,10 @@
 {
-"Title": "کانال VIP رایگان شد !",
-"Description": "اگه تلگرام ، اینستا ، واتس‌اپت بالا نمیاد زود بیا داخل کانال VIP پروکسیای ضد فیلتر و بردار 👇🏻",
-"Link": "tg://join?invite=EBent--wzNwwODIy",
-"ColorWave": "#69F0AE",
-"Color": "#69F0AE",
-"ColorWaveTwo": "#00BFA5",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=NvnGcgW2ZYMyYmM0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "279360031",
+"MessageID": "10173610",
 "ShowTime": "3",
-"Button": " عضویت در کانال VIP ",
+"Button": " دانلود فیلترشکن بدون قطعی ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
