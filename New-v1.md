@@ -1,10 +1,10 @@
 {
-"Title": "چرا الکی پول فیلترشکن بدی! ",
-"Description": "از اینجا رایگان دانلود کن یک ریالم پول نده سرعتشم 3 برابر فیلترشکن پولیه 😁👇🏻",
-"Link": "tg://join?invite=mC14RANdVMdhMGE0",
-"ColorWave": "#00B8D4",
-"Color": "#00B8D4",
-"ColorWaveTwo": "#18FFFF",
+"Title": "فیلترشکن قوی و پرسرعت",
+"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Link": "tg://join?invite=X_qVAHubbwdhMWZk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01028373",
+"MessageID": "110002836",
 "ShowTime": "2",
 "Button": " دانلود فیلترشکن پرسرعت ",
 "ButtonCancell": "  ",
