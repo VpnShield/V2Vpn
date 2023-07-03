@@ -4,7 +4,7 @@
 "Link": "tg://join?invite=MVTZq6oar0I2ZDFk",
 "ColorWave": "#FFFF00",
 "Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"ColorWaveTwo": "#FFC400",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "021666391",
+"MessageID": "0138710002",
 "ShowTime": "2",
 "Button": "عضویت در کانال تلگرام",
 "ButtonCancell": " بعدا ",
-"Closure": "false",
+"Closure": "true",
 "Show": "on"
 }
