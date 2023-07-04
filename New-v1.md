@@ -1,13 +1,13 @@
 {
-"Title": "Vpn Shield | Free For All ⚡️",
-"Description": "سلام دوست عزیزم ، این برنامه توسط کانال Vpn Shield مود شده !\n\n- پرسرعت‌ترین فیلترشکن حال حاظر داخل کانال قرار دادیم ، حتما امتحان کنید 😎👇🏻",
-"Link": "tg://join?invite=MVTZq6oar0I2ZDFk",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFC400",
+"Title": "⭕️ خبر #مهم",
+"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
+"Link": "tg://join?invite=FesFWk4F-mlmNzY0",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "0138710002",
-"ShowTime": "2",
-"Button": "عضویت در کانال تلگرام",
-"ButtonCancell": " بعدا ",
+"MessageID": "004040828287",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
