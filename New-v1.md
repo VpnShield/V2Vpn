@@ -1,13 +1,13 @@
 {
-"Title": "⭕️ خبر #مهم",
-"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
-"Link": "tg://join?invite=FesFWk4F-mlmNzY0",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "کانال VIP رایگان شد !",
+"Description": "✌🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP دکتر سید محمدهادی طلوعی عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
+"Link": "tg://join?invite=qiTwKee2KzwxNzY0",
+"ColorWave": "#76FF03",
+"Color": "#76FF03",
+"ColorWaveTwo": "#64DD17",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "004040828287",
+"MessageID": "91370303",
 "ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
