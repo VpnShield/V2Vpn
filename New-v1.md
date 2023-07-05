@@ -1,10 +1,10 @@
 {
-"Title": "دکتر پروکسی از زندان آزاد شد 😎🔥",
-"Description": "اینم هدیه دکتر پروکسی ، 10 عدد پروکسی اپراتورهای مختلف متصل به اینترنت استارلینک ، تا 50 روز دیگه متصله 😍👇🏻",
-"Link": "tg://join?invite=-jmYulpXZDY3NTZk",
-"ColorWave": "#00E676",
-"Color": "#00E676",
-"ColorWaveTwo": "#69F0AE",
+"Title": "میخوای پولدار بشی؟ 🥲",
+"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی 👇🏻",
+"Link": "tg://join?invite=qXwlyUzC0o84YzFk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "0127765552900",
+"MessageID": "030101810727",
 "ShowTime": "3",
-"Button": " اتصال فوری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
