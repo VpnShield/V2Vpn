@@ -1,1 +1,24 @@
-
+{
+"Title": "دکتر پروکسی از زندان آزاد شد 😎🔥",
+"Description": "اینم هدیه دکتر پروکسی ، 10 عدد پروکسی اپراتورهای مختلف متصل به اینترنت استارلینک ، تا 50 روز دیگه متصله 😍👇🏻",
+"Link": "tg://join?invite=-jmYulpXZDY3NTZk",
+"ColorWave": "#00E676",
+"Color": "#00E676",
+"ColorWaveTwo": "#69F0AE",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "0127765552900",
+"ShowTime": "3",
+"Button": " اتصال فوری ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
