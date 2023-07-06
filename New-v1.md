@@ -1,24 +1,24 @@
 {
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=X-XdtlImdmllZjE0",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
+"Title": "اگه نمیخوای حمالی کنی عضو شو 😎",
+"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی👇🏻(بخاطر درخواست شما مجدد لینک گرفتیم)",
+"Link": "tg://join?invite=GeA-2uzyKtI2ZTE0",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "9910003711",
+"Cancellable": "false",
+"MessageID": "011836451000",
 "ShowTime": "3",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " میخرم ",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
