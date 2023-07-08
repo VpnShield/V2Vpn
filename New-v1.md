@@ -1,13 +1,13 @@
 {
-"Title": "کانال VIP رایگان شد !",
-"Description": "✌🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP این کانال عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
-"Link": "tg://join?invite=L1z6z66OzqwwOGY8",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#64DD17",
+"Title": "⭕️ خبر #مهم",
+"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
+"Link": "tg://join?invite=8cHc-VFDnxM4ODEy",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "111100001367",
-"ShowTime": "3",
-"Button": "  عضویت اجباری در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"MessageID": "0111377",
+"ShowTime": "2",
+"Button": " عضویت سریع  ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
