@@ -1,7 +1,7 @@
 {
-"Title": "حوصلت سر رفته؟ 😎",
-"Description": "ما یه گروه چت و سرگرمی داریم که بچه های پایه توش عضون ، اگر حوصلت سر میره بیا پیشمون خوش میگذره 👇🏻",
-"Link": "tg://join?invite=qvsPv81lUu8yNjM8",
+"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
+"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
+"Link": "tg://join?invite=Z_OHqZDigo1kMWVk",
 "ColorWave": "#FF9100",
 "Color": "#FF9100",
 "ColorWaveTwo": "#FF6D00",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "001030138337",
+"MessageID": "0111028372",
 "ShowTime": "2",
-"Button": " عضویت در تلگرام ",
+"Button": " عضویت فوری ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
