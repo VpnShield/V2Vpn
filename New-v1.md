@@ -1,13 +1,13 @@
 {
-"Title": "⭕️ خبر #مهم",
-"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
-"Link": "tg://join?invite=izT11kKRGaU3MjZi",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "اگه نمیخوای حمالی کنی عضو شو 😎",
+"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی👇🏻(بخاطر درخواست شما مجدد لینک گرفتیم)",
+"Link": "tg://join?invite=PN05QsMENEdjNDY0",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "00111999330027",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"MessageID": "0001122002",
+"ShowTime": "2",
+"Button": "  عضویت اجباری در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
