@@ -1,24 +1,1 @@
-{
-"Title": "عضو کانال پروکسی استارلینک بشید 🔥",
-"Description": "اینم نذری ایلان ماسک به ایرانیا برای محرم ، 3 عدد پروکسی اپراتورهای مختلف متصل به اینترنت استارلینک ، تا 2 ماه دیگه متصله 😍👇🏻",
-"Link": "tg://join?invite=GAPH_ZIjn2E2ZGUy",
-"ColorWave": "#00E676",
-"Color": "#00E676",
-"ColorWaveTwo": "#69F0AE",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "center",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "0119380218",
-"ShowTime": "3",
-"Button": " اتصال فوری در تلگرام ",
-"ButtonCancell": "  ",
-"Closure": "true",
-"Show": "on"
-}
+
