@@ -1,7 +1,7 @@
 {
-"Title": "فیلترشکن جدید و پرقدرت 😎🔥",
-"Description": "سلام عزیزم خوبی؟ چون فیلترینگ قوی شد ما یه یدونه فیلترشکن قوی و پرسرعت تو کانال قرار دادیم ، اینستا و یوتیوب هم راحت میاره مخصوص همه اپراتورها ، بزن رو دکمه زیر تا از تلگرام دانلودش کنی 👇🏻",
-"Link": "tg://join?invite=HQWNEuAuAqBlYTI0",
+"Title": "پرسرعت‌ترین تانل تاریخ 😎",
+"Description": "● اگه از فیلترشکنت خسته شدی بیا تو کانال یه چیز خفن و پرسرعت گذاشتیم و پین کردیم واقعا عالیه، به غیر چنل ما جای دیگه نیست 😏👇🏻",
+"Link": "tg://join?invite=UcQ05DKH6rNjNmVk",
 "ColorWave": "#FFEA00",
 "Color": "#FFEA00",
 "ColorWaveTwo": "#FFFF00",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "0118189993",
+"MessageID": "991280000136551",
 "ShowTime": "3",
-"Button": " دریافت فیلترشکن جدید و پرسرعت ",
+"Button": "  عضویت فوری  ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
