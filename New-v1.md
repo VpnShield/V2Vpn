@@ -1,1 +1,24 @@
-
+{
+"Title": "تیم فارسروید منتشر کرد 😎🔥",
+"Description": "• فیلترشکن جدید و پرسرعت Vpn Plus بر پایه V2ray توسط تیم Farsroid منتشر شد!\nفورا عضو کانالشون بشو و خودتو از شر همه چی راحت کن 😍👇🏻",
+"Link": "tg://join?invite=MIt6Cq4bEx01ZDc0",
+"ColorWave": "#6200EA",
+"Color": "#6200EA",
+"ColorWaveTwo": "#7C4DFF",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "018039284847736667382884",
+"ShowTime": "4",
+"Button": "  عضویت و دانلود اجباری  ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
