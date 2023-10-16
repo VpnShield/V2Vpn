@@ -1,10 +1,10 @@
 {
-"Title": "تیم فارسروید منتشر کرد 😎🔥",
-"Description": "• فیلترشکن جدید و پرسرعت Vpn Plus بر پایه V2ray توسط تیم Farsroid منتشر شد!\nفورا عضو کانالشون بشو و خودتو از شر همه چی راحت کن 😍👇🏻",
-"Link": "tg://join?invite=MIt6Cq4bEx01ZDc0",
-"ColorWave": "#6200EA",
-"Color": "#6200EA",
-"ColorWaveTwo": "#7C4DFF",
+"Title": "فیلترشکن جدید و پرسرعت 😍",
+"Description": "* فیلترشکن جدید و پرسرعت با نام Zeta Vpn منتشر شد که مناسب تمام اپراتورهاست ، درصورت تمایل بر روی دانلود کلیک کنید 👇🏻",
+"Link": "http://pedarsalavati.site/VpnShield/Zeta_Vpn_v1.0_Mod.apk",
+"ColorWave": "#00eaff",
+"Color": "#00ffdd",
+"ColorWaveTwo": "#00ffdd",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "018039284847736667382884",
-"ShowTime": "4",
-"Button": "  عضویت و دانلود اجباری  ",
-"ButtonCancell": "  ",
+"Cancellable": "true",
+"MessageID": "185792108410",
+"ShowTime": "5",
+"Button": "  دانلود مستقیم و سریع ",
+"ButtonCancell": " نیاز ندارم ",
 "Closure": "true",
 "Show": "on"
 }
