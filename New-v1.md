@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن جدید و پرسرعت 😍",
-"Description": "* فیلترشکن جدید و پرسرعت با نام Zeta Vpn منتشر شد که مناسب تمام اپراتورهاست ، درصورت تمایل بر روی دانلود کلیک کنید 👇🏻",
-"Link": "http://pedarsalavati.site/VpnShield/Zeta_Vpn_v1.0_Mod.apk",
-"ColorWave": "#00eaff",
-"Color": "#00ffdd",
-"ColorWaveTwo": "#00ffdd",
+"Title": "فیلترشکن پولی رو رایگان استفاده کن 😱🔥",
+"Description": "❌ فیلترشکن پولی v2net به ارزش ماهانه 1 میلیون مود شده و میتونی رایگان استفاده کنی ، بیا تو کانال تلگرام دانلود کن بدو تا جا نمونی 👇🏻",
+"Link": "tg://join?invite=hLRBxkwYzuw0OTM0",
+"ColorWave": "#673AB7",
+"Color": "#673AB7",
+"ColorWaveTwo": "#7E57C2",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "185792108410",
-"ShowTime": "5",
-"Button": "  دانلود مستقیم و سریع ",
-"ButtonCancell": " نیاز ندارم ",
+"Cancellable": "false",
+"MessageID": "299736100381",
+"ShowTime": "4",
+"Button": " دانلود و عضویت اجباری ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
