@@ -1,10 +1,10 @@
 {
-"Title": "بی رقیب‌ترین فیلترشکن موجود 😎",
-"Description": "- فیلترشکن v2raySH توسط تیم شیلد ساخته شده ، سرورهای مخصوص اینستاگرام و یوتیوب!\nعضو کانال رسمی شو و خودتو از شر فیلترشکن دو هزاری خلاص کن 👇🏻 ",
-"Link": "tg://join?invite=yxk5iKTMQcBlMDQ0",
-"ColorWave": "#43A047",
-"Color": "#43A047",
-"ColorWaveTwo": "#00E676",
+"Title": "🔥 سوپرایز ویژه 🔥",
+"Description": "الان و فردا کلی کانفیگ v2ray خفن + فیلترشکنای خفن حال حاظر برای اینستا و ... تو چنل قرار میدیم ؛ پیشنهاد میدم حتما عضو شو 😎👇🏻",
+"Link": "tg://join?invite=lVZAxWcBl9pjNzlk",
+"ColorWave": "#FF5722",
+"Color": "#FF5722",
+"ColorWaveTwo": "#FF7043",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,8 +15,8 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "000133766315",
-"ShowTime": "2",
+"MessageID": "01010101758582",
+"ShowTime": "3",
 "Button": " عضویت اجباری در تلگرام ",
 "ButtonCancell": "  ",
 "Closure": "true",
