@@ -1,10 +1,10 @@
 {
-"Title": "🔥 سوپرایز ویژه 🔥",
-"Description": "الان و فردا کلی کانفیگ v2ray خفن + فیلترشکنای خفن حال حاظر برای اینستا و ... تو چنل قرار میدیم ؛ پیشنهاد میدم حتما عضو شو 😎👇🏻",
-"Link": "tg://join?invite=lVZAxWcBl9pjNzlk",
-"ColorWave": "#FF5722",
-"Color": "#FF5722",
-"ColorWaveTwo": "#FF7043",
+"Title": "حمایت از اسپانسر برنامه 🙏🏻",
+"Description": "سلام ، لطفا برای جلوگیری از قطع شدن فیلترشکن حتما عضو کانال تلگرامی اسپانسر ما شوید در غیر این صورت اتصال شما قطع میشود ❤️",
+"Link": "tg://join?invite=BVnhUgtLMJFlOTc8",
+"ColorWave": "#7C4DFF",
+"Color": "#FF9100",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01010101758582",
-"ShowTime": "3",
-"Button": " عضویت اجباری در تلگرام ",
+"MessageID": "855585",
+"ShowTime": "2",
+"Button": " عضویت در کانال تلگرام ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
