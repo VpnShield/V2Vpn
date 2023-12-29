@@ -1,10 +1,10 @@
 {
-"Title": "#اطلاعیه",
-"Description": "لطفا برای حمایت و دریافت فیلترشکن بیشتر عضو کانال ما بشید ❤️ (ما داریم زحمت میکشیم)",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=U-iAhFfN3u03ZTU0",
+"ColorWave": "#18FFFF",
+"Color": "#7C4DFF",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "082164912",
-"ShowTime": "2",
-"Button": "   عضویت در کانال  ",
-"ButtonCancell": " حمایت نمیکنم ",
+"MessageID": "0020276527",
+"ShowTime": "3",
+"Button": " دانلود فیلترشکن بدون قطعی ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
