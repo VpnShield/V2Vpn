@@ -1,1 +1,24 @@
-
+{
+"Title": " 🔥 فیلترشکن قوی و پرسرعت 🔥",
+"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Link": "tg://join?invite=1ekoPPwMVPczM2Y0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "0193776290",
+"ShowTime": "3",
+"Button": " دانلود فیلترشکن پرسرعت ",
+"ButtonCancell": " لغو ",
+"Closure": "true",
+"Show": "on"
+}
