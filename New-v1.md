@@ -1,10 +1,10 @@
 {
-"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
-"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
-"Link": "tg://join?invite=qVw-OKNifLUxZTc0",
-"ColorWave": "#18FFFF",
-"Color": "#7C4DFF",
-"ColorWaveTwo": "#651FFF",
+"Title": "اطلاعیه #مهم :",
+"Description": "انگار شما عضو کانال تلگرام ما نیستید ، برای جلوگیری از قطع شدن فیلترشکنتون فورا عضو کانال تلگرام ما بشید 😊👇🏻",
+"Link": "tg://join?invite=gpO0uBBDgiQ3NWY0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FFC400",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "0020276527",
+"Cancellable": "false",
+"MessageID": "0102971762",
 "ShowTime": "3",
-"Button": " دانلود فیلترشکن بدون قطعی ",
-"ButtonCancell": " نمیخوام ",
+"Button": " عضویت اجباری ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
